@@ -82,7 +82,7 @@
     height: 12px;
     width: 12px;
     border-radius: 50%;
-    background: deeppink;
+    background: black;
     position: absolute;
     top: 2.5px;
     left: 2px;
@@ -117,4 +117,5 @@
 
 #light-mode-input:checked ~ .light-mode-toggler div {
     left: 21px;
+    background: #ccc;
 }
